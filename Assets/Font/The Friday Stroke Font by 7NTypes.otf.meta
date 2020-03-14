@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a364ddc15f6b64f409e9d299182113d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Friday Stroke
+  fontNames:
+  - The Friday Stroke
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97961d281dae76045858b5c5ccb56400, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
